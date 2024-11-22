@@ -1,0 +1,11 @@
+C:\Users\matthew\Desktop\CW-PAP-Tool-main\CWHelper\MemClass\bin\Debug\MemClass.exe.config
+C:\Users\matthew\Desktop\CW-PAP-Tool-main\CWHelper\MemClass\bin\Debug\MemClass.exe
+C:\Users\matthew\Desktop\CW-PAP-Tool-main\CWHelper\MemClass\bin\Debug\MemClass.pdb
+C:\Users\matthew\Desktop\CW-PAP-Tool-main\CWHelper\MemClass\obj\Debug\CWHelper.csproj.AssemblyReference.cache
+C:\Users\matthew\Desktop\CW-PAP-Tool-main\CWHelper\MemClass\obj\Debug\CWHelper.csproj.SuggestedBindingRedirects.cache
+C:\Users\matthew\Desktop\CW-PAP-Tool-main\CWHelper\MemClass\obj\Debug\MemClass.Main.resources
+C:\Users\matthew\Desktop\CW-PAP-Tool-main\CWHelper\MemClass\obj\Debug\MemClass.Properties.Resources.resources
+C:\Users\matthew\Desktop\CW-PAP-Tool-main\CWHelper\MemClass\obj\Debug\CWHelper.csproj.GenerateResource.cache
+C:\Users\matthew\Desktop\CW-PAP-Tool-main\CWHelper\MemClass\obj\Debug\CWHelper.csproj.CoreCompileInputs.cache
+C:\Users\matthew\Desktop\CW-PAP-Tool-main\CWHelper\MemClass\obj\Debug\MemClass.exe
+C:\Users\matthew\Desktop\CW-PAP-Tool-main\CWHelper\MemClass\obj\Debug\MemClass.pdb
